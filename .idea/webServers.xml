@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d9255c0c-fdd6-460a-9ed5-4a4fc87a3986" name="47.94.245.202" url="http://47.94.245.202">
+        <fileTransfer host="47.94.245.202" port="22" rootFolder="/usr/wechat" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
